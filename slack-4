@@ -2486,3 +2486,9 @@ span.c-message__body, a.c-message__sender_link, span.c-message_attachment__media
      }
 .c-texty_autocomplete__result_highlight{
 background:#222222 !important}
+.p-channel_sidebar__jumper {
+    background: transparent !important;
+}
+.p-channel_sidebar__channel:hover, .p-channel_sidebar__link:hover {
+    background: #222 !important;
+}
